@@ -13,6 +13,7 @@ public class RatingDataServiceApplication {
 		System.out.println("abiel");
 		System.out.println("miki");
 		System.out.println("************************************");
+		System.out.println("hi abiel");
 	}
 
 }
